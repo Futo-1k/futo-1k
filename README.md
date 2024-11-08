@@ -1,0 +1,1 @@
+A crowdfunding and donation platform focused on small contributions, where users can support meaningful causes with micro-donations. Our goal is to make community support accessible to all, enabling projects to reach their funding goals with contributions as low as 1,000 naira. Built with simplicity, transparency, and impact in mind.
